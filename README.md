@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 10: Connect the Portfolio UI and Watchlist
+# Connect the Portfolio UI and Watchlist
 
 This learning activity connects the React interface to authenticated, persisted portfolio data. It builds on the authentication, transaction APIs, and valuation calculations from milestones 07–09.
 
